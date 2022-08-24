@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-form-validator",
+  "version": "1.0.0",
+  "description": "handles form submission and validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kwanele shelembe",
+  "license": "ISC"
+}
